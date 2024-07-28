@@ -20,12 +20,15 @@ Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhanceme
     ```
     python test.py
     ```
+    
 *  Change the `"get_test_set"` in test.py. <br>
 
 ## Training
-    ```
-    python train.py
-    ```
+
+```
+python train.py
+ ```
+    
 *  Change the `"get_training_set"` in train.py. <br>
 ## Results presentation
 <img src="./Figure/results.png" width = "800" height = "400" div align=center />
