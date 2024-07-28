@@ -1,5 +1,4 @@
 # Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement (Histoformer)
-Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement
 
 ## Abstract
 When taking images underwater, we often find them to have low contrast and color distortions since light passing through water suffers from absorption, scattering, and attenuation, making it difficult to see the scene clearly. To address this, we propose an effective model for underwater image enhancement using a histogram-based transformer (Histoformer), learning histogram distributions of high-contrast and color-corrected underwater images to produce the desired histogram to improve the visual quality of underwater images. Furthermore, we integrate Histoformer with a generative adversarial network for pixel-based quality refinement. Experimental results demonstrate that the proposed model performs favorably against state-of-the-art underwater image restoration and enhancement approaches objectively and subjectively.
