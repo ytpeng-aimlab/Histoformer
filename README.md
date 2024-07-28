@@ -18,7 +18,7 @@ When taking images underwater, we often find them to have low contrast and color
     pip install -r requirements.txt
     ```
 ## Testing
-*  Pretrained models : from *[[Histoformer](https://drive.google.com/file/d/1pDk4z7PuovlXIqj2nT-ENRzxSF6QQPSy/view?usp=drive_link)]* and place it in ./checkpoints <br>
+*  Pretrained models : from *[[Histoformer](http://gofile.me/65TdH/JvMtURgmH)]* and place it in ./checkpoints <br>
 
     ```
     python test.py
