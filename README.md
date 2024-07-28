@@ -15,4 +15,15 @@ Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhanceme
     pip install -r requirements.txt
     ```
 ## Testing
-*  Pretrained models : from https:https://drive.google.com/file/d/1pDk4z7PuovlXIqj2nT-ENRzxSF6QQPSy/view?usp=drive_link and place it in ./checkpoints <br>
+*  Pretrained models : from *[[Histoformer](https://drive.google.com/file/d/1pDk4z7PuovlXIqj2nT-ENRzxSF6QQPSy/view?usp=drive_link)]* and place it in ./checkpoints <br>
+
+    ```
+    python test.py
+    ```
+*  Change the `"get_test_set"` in test.py. <br>
+
+## Training
+    ```
+    python train.py
+    ```
+*  Change the `"get_training_set"` in test.py. <br>
