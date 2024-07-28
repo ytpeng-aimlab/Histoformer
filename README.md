@@ -8,3 +8,8 @@ Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhanceme
     ```
     virtualenv -p python3 venv
     ```
+2. Install the package. (The version may be various depends on your devices.)
+    ```
+    source venv/bin/activate
+    pip install -r requirements.txt
+    ```
