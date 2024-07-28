@@ -2,7 +2,7 @@
 Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement
 
 ## Architecture of Histoformer
-<img src="./Figure/Architecture_histoformer.png" width = "800" height = "400" div align=center />
+<img src="./Figures/Architecture_histoformer.png" width = "800" height = "400" div align=center />
 
 ## Enviornment Requirements
 1. Create a virtual environment using `virtualenv`.
@@ -31,4 +31,4 @@ python train.py
     
 *  Change the `"get_training_set"` in train.py. <br>
 ## Results presentation
-<img src="./Figure/results.png" width = "800" height = "400" div align=center />
+<img src="./Figures/UIEB_results.png" width = "800" height = "400" div align=center />
