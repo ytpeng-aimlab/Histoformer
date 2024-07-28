@@ -26,4 +26,4 @@ Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhanceme
     ```
     python train.py
     ```
-*  Change the `"get_training_set"` in test.py. <br>
+*  Change the `"get_training_set"` in train.py. <br>
