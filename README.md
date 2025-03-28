@@ -7,12 +7,12 @@ When taking images underwater, we often find them to have low contrast and color
 ## Architecture of Histoformer
 <img src="./Figures/Architecture_histoformer.png" width = "800" height = "400" div align=center />
 
-## Enviornment Requirements
+## Environment Requirements
 1. Create a virtual environment using `virtualenv`.
     ```
     virtualenv -p python3 venv
     ```
-2. Install the package. (The version may be various depends on your devices.)
+2. Install the package. (The version may vary depending on your device.)
     ```
     source venv/bin/activate
     pip install -r requirements.txt
