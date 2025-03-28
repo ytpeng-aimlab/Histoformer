@@ -1,4 +1,4 @@
-# Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement (Histoformer)
+# Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement, IEEE Journal of Oceanic Engineering, 2024
 Pytorch Implementation of Histoformer-Histogram-based Transformer for Efficient Underwater Image Enhancement
 
 ## Abstract
