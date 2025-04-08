@@ -34,9 +34,5 @@ python train.py
     
 *  Change the `"get_training_set"` in train.py. <be>
 
-## Dataset
-*  [UW800](https://drive.google.com/file/d/1EIShSzhcYmmb4_mWmw9oFOIEMtsGlFk8/view)
-
-UW800 
 ## Results presentation
 <img src="./Figures/UIEB_results.png" width = "800" height = "400" div align=center />
