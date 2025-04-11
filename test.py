@@ -33,7 +33,8 @@ parser.add_argument('--embed_dim', type=int, default=32, help='dim of emdeding f
 parser.add_argument('--token_projection', type=str,default='linear', help='linear/conv token projection')
 parser.add_argument('--token_mlp', type=str,default='TwoDCFF', help='TwoDCFF/ffn token mlp')
 
-parser.add_argument('--save_dir', type=str, default ='./checkpoints_new/',  help='save dir')
+#parser.add_argument('--save_dir', type=str, default ='./checkpoints_new/',  help='save dir')
+parser.add_argument('--save_dir', type=str, default ='./checkpoints/',  help='save dir')
 parser.add_argument('--save_image_dir', type=str, default ='./results/',  help='save image dir')
 
 opt = parser.parse_args()
